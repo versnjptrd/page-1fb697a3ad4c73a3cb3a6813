@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.beolj.cn/sitemap.xml
